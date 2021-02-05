@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dhlugbfxqnh7nmrg?svg=true)](https://ci.appveyor.com/project/MeriAv/2-2)
